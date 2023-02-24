@@ -10,3 +10,4 @@ _I am a QA Engineer who is also passioned about web development and coding_ :mal
 :biking_man: **Remote Testing:** Selenium Grid, Jenkins(CI/CD)\
 :lotus_position_man: **Bug Tracking:** JIRA\
 :man_cartwheeling: **Version Control System:** Git, Bitbucket 
+![giphy](https://user-images.githubusercontent.com/60116628/131928939-2bd76f2a-1270-4f65-b089-9ef13016b6c9.gif)
