@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
-_I am a QA Engineer who is also passioned about web development and coding_ :
-:man_cartwheeling: 
+_I am a QA Engineer who is also passioned about web development and coding_ 
+:man_cartwheeling:
 
 **Languages:** Java, JavaScript, Python, HTML, CSS, Lambda, xml, SQL, Gherkin\
 :lotus_position_man: **Frameworks:** JUnit, TestNG, Cucumber\
