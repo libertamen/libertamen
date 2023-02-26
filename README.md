@@ -12,5 +12,5 @@ _I am a QA Engineer who is also passioned about web development and coding
 :lotus_position_man: **Bug Tracking:** JIRA\
 :man_cartwheeling: **Version Control System:** Git, Bitbucket 
 
-<iframe src="https://giphy.com/embed/aEwLTJvYxwo1L09oyP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nuevofoundation-coding-stem-anyonecancode-aEwLTJvYxwo1L09oyP">via GIPHY</a></p>
+href="https://giphy.com/gifs/nuevofoundation-coding-stem-anyonecancode-aEwLTJvYxwo1L09oyP">via GIPHY</a></p>
 
