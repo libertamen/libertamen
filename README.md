@@ -1,8 +1,6 @@
 ### Hi there 👋🏻
 _I am a QA Engineer who is also passioned about web development and coding_ 
-:man_cartwheeling:
-
-**Languages:** Java, JavaScript, Python, HTML, CSS, Lambda, xml, SQL, Gherkin\
+:Languages:** Java, JavaScript, Python, HTML, CSS, Lambda, xml, SQL, Gherkin\
 :lotus_position_man: **Frameworks:** JUnit, TestNG, Cucumber\
 :biking_man: **Tools:** IntelliJ, Eclipse, VS Code, Selenium, Maven, Postman, JMeter, Restful API, Jenkins, PostgreSQL\
 :weight_lifting_man: **Design Pattern:** Page Object Model(POM)\
